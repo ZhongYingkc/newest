@@ -39,7 +39,7 @@ education:
     - course: MA in Digital Film Technology
       institution: Beijing Film Acadamy
       year: 2022-present
-    - course:BEng in Digital Media Technology
+    - course: BEng in Digital Media Technology
       institution: Beijing Film Acadamy
       year: 2018-2022
     
