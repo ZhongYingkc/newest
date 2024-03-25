@@ -46,7 +46,7 @@ url_pdf: 'previs.pdf'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '2023.png'
+  caption: ''
   focal_point: ""
   preview_only: false
 

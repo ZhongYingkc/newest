@@ -43,7 +43,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'icme2024.png'
+  caption: 'feature.jpg'
   focal_point: ""
   preview_only: false
 
