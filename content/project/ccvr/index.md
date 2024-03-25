@@ -16,8 +16,8 @@ image:
 
 
 links:
-  - icon: bilibili
-    icon_pack: icons
+  - icon: 
+    icon_pack: 
     name: Video
     url: https://www.bilibili.com/video/BV1eD421L7aa/?vd_source=340b02229354bd7143302a03ede7a802
 #url_code: ''

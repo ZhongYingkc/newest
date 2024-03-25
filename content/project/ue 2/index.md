@@ -13,7 +13,7 @@ image:
   focal_point: ''
 
 links:
-  - icon: bilibili
+  - icon: 
     icon_pack: 
     name: Video
     url: https://www.bilibili.com/video/BV1Q2421P7oK/?vd_source=340b02229354bd7143302a03ede7a802

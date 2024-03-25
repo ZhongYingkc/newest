@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: bilibili
+  - icon: 
     icon_pack: 
     name: Video
     url: https://www.bilibili.com/video/BV1a64y1y7Vi/?spm_id_from=333.999.0.0

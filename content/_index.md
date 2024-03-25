@@ -176,8 +176,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Internship in oversea influencer marketing
+          company: Netease youdao
+          company_url: https://mobile.youdao.com
+          company_logo: netease
+          location: Guangzhou
+          date_start: '2022-05-10'
+          date_end: '2022-08-01'
+          description: |2-
+              Responsibilities include:
+
+              * Translating oversea influencer videos.
+              * Data Analysing.
+              * Contacting oversea influencer.
         - title: Profesional Volunteer in Photography
-          company: 2022 Beijing Winter Olympics
+          company: 2022 Beijing Winter Olympics and Paralympic
           company_url: https://olympics.com/ioc/theme-beijing-2022
           company_logo: wo2022
           location: Beijing
@@ -199,7 +212,7 @@ sections:
               Responsibilities include:
 
               * Estabilishing playlists for promotion.
-              * Data Analysing
+              * Data Analysing.
     design:
       columns: '2'
       background:
