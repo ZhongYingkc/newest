@@ -299,6 +299,15 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
+          date_start: '2021-10-17'
+          description: ''
+          icon: ''
+          organization: The 5th China Competition on Virtual Reality (CCVR 2022)
+          organization_url: http://ccvr2022.aconf.cn
+          title: 'CCVR First Pride'
+          url: ''
+        - certificate_url: ''
+          date_end: ''
           date_start: '2020-12-25'
           description: ''
           icon: ''
