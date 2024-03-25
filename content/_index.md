@@ -8,21 +8,23 @@ sections:
   - block: hero
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hi,
-      image:
-        filename: ''
+      title: 
       text: |-
-        **
         
         
         
+
+
+        Nice to meet you.
+
         I am Wing!
+
         
         
         
         
         
-        **
+        🪽
 
     design:
       background:
