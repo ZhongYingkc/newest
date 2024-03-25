@@ -79,59 +79,6 @@ sections:
         position: center
         parallax: true
         text_color_light: true
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2022-12-25'
-          description: ''
-          icon: ''
-          organization: Beijing Film Academy
-          organization_url: https://www.bfa.edu.cn
-          title: 'Academic Postgraduate Scholarship'
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2021-12-25'
-          description: ''
-          icon: ''
-          organization: Beijing Film Academy
-          organization_url: https://www.bfa.edu.cn
-          title: 'First Class Academic Scholarship'
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2020-12-25'
-          description: ''
-          icon: ''
-          organization: Beijing Film Academy
-          organization_url: https://www.bfa.edu.cn
-          title: 'Thrid Class Academic Scholarship'
-          url: ''
-    design:
-      columns: '2'
-      background:
-        image:
-          filename: cover.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-        size: cover
-        position: center
-        parallax: true
-        text_color_light: true
   - block: portfolio
     id: projects
     content:
@@ -303,7 +250,7 @@ sections:
           description: ''
           icon: ''
           organization: The 5th China Competition on Virtual Reality(CCVR 2022)
-          organization_url: http://ccvr2022.aconf.cn
+          organization_url: http://ccvr.aconf.cn/index.html
           title: 'CCVR First Pride'
           url: ''
         - certificate_url: ''
