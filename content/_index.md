@@ -15,16 +15,16 @@ sections:
         
 
 
-        Nice to meet you.
+                   Nice to meet you.
 
-        I am Wing!
+                   I am Wing!
 
         
         
         
         
         
-        🪽
+                   🪽
 
     design:
       background:
@@ -201,7 +201,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: card
       background:
         image:
           filename: cover.jpg
@@ -243,7 +243,7 @@ sections:
           company_logo: tme
           location: Beijing
           date_start: '2021-07-01'
-          date_end: '2021-09-31'
+          date_end: '2021-09-30'
           description: |2-
               Responsibilities include:
 
