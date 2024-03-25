@@ -33,7 +33,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
+            brightness: 0.8
         size: cover
         position: center
         parallax: true
@@ -64,51 +64,6 @@ sections:
       username: admin
     design:
       columns: '1'
-      background:
-        image:
-          filename: cover.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-        size: cover
-        position: center
-        parallax: true
-        text_color_light: true
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Profesional Volunteer
-          company: 2022 Beijing Winter Olympics
-          company_url: ''
-          company_logo: wo2022
-          location: Beijing
-          date_start: '2022-01-01'
-          date_end: '2022-03-15'
-          description: |2-
-              Responsibilities include:
-
-              * Offering help for photography journalists.
-              * Office work in the National Stadium photography department.
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
       background:
         image:
           filename: cover.jpg
@@ -247,6 +202,117 @@ sections:
     design:
       columns: '2'
       view: citation
+      background:
+        image:
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Profesional Volunteer in Photography
+          company: 2022 Beijing Winter Olympics
+          company_url: ''
+          company_logo: wo2022
+          location: Beijing
+          date_start: '2022-01-01'
+          date_end: '2022-03-15'
+          description: |2-
+              Responsibilities include:
+
+              * Offering help for photography journalists.
+              * Office work in the National Stadium photography department.
+        - title: Internship in Music Marketing
+          company: Tencent Music Entertainment
+          company_url: https://www.tencentmusic.com
+          company_logo: tme
+          location: Beijing
+          date_start: '2021-07-01'
+          date_end: '2021-09-31'
+          description: |2-
+              Responsibilities include:
+
+              * Estabilishing playlists for promotion.
+              * Data Analysing
+    design:
+      columns: '2'
+      background:
+        image:
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-12-25'
+          description: ''
+          icon: ''
+          organization: Beijing Film Academy
+          organization_url: https://www.bfa.edu.cn
+          title: 'Academic Postgraduate Scholarship'
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-12-25'
+          description: ''
+          icon: ''
+          organization: Beijing Film Academy
+          organization_url: https://www.bfa.edu.cn
+          title: 'First Class Academic Scholarship'
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2020-12-25'
+          description: ''
+          icon: ''
+          organization: Beijing Film Academy
+          organization_url: https://www.bfa.edu.cn
+          title: 'Thrid Class Academic Scholarship'
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-12-25'
+          description: ''
+          icon: ''
+          organization: Beijing Film Academy
+          organization_url: https://www.bfa.edu.cn
+          title: 'Thrid Class Academic Scholarship'
+          url: ''
+    design:
+      columns: '2'
       background:
         image:
           filename: cover.jpg
