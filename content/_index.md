@@ -14,26 +14,11 @@ sections:
         
                    Nice to meet you.
 
-                   🪽
-
-                   🪽
-
-                   I am Wing!
-
-                   🪽
-
-                   🪽
-
-        
-        
-        
-        
-        
-
+                   I am Wing🪽
     design:
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
+        padding: ['100px', '100px', '100px', '100px']
       background:
         image:
           filename: cover1.jpg
@@ -179,7 +164,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Internship in oversea influencer marketing
+        - title: Internship in Oversea Influencer Marketing
           company: Netease youdao
           company_url: https://mobile.youdao.com
           company_logo: netease
