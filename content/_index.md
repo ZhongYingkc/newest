@@ -10,9 +10,19 @@ sections:
     content:
       title: Hi,
       image:
-        filename: cover.jpg
+        filename: ''
       text: |-
-        **I am Wing!**
+        **
+        
+        
+        
+        I am Wing!
+        
+        
+        
+        
+        
+        **
 
     design:
       background:
@@ -24,7 +34,7 @@ sections:
             brightness: 0.8
         size: cover
         position: center
-        parallax: false
+        parallax: true
         text_color_light: true
   - block: about.biography
     id: about
@@ -32,6 +42,18 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+      background:
+        image:
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.8
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
   - block: skills
     content:
       title: Skills
@@ -40,6 +62,17 @@ sections:
       username: admin
     design:
       columns: '1'
+      background:
+        image:
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.8
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
   - block: experience
     content:
       title: Experience
@@ -74,6 +107,17 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+      background:
+        image:
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.8
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
