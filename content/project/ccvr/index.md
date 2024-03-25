@@ -15,11 +15,11 @@ image:
 
 
 
-#links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
+links:
+  - icon: bilibili
+    icon_pack: 
+    name: Video
+    url: https://www.bilibili.com/video/BV1eD421L7aa/?vd_source=340b02229354bd7143302a03ede7a802
 #url_code: ''
 #url_pdf: ''
 #url_slides: ''

@@ -218,7 +218,7 @@ sections:
         parallax: true
         text_color_light: true
   - block: experience
-    content: experience
+    content: 
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
