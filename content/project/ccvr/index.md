@@ -3,7 +3,7 @@ title: Out-of-Plane.
 summary: A Interactive 3D Stereo Film as the final assignment of "Virtual Reality" course.
 tags:
   - Virtual Production
-date: '2021-5-30T00:00:00Z'
+date: '2021-05-30'
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ''
