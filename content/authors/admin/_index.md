@@ -52,13 +52,13 @@ skills:
       - name: Matlab
         description: ''
         percent: 75
-        icon: matlab
-        icon_pack: fab
+        icon: devicon/matlab
+        icon_pack: devicon
       - name: Unreal Engine
         description: ''
         percent: 90
-        icon: unrealengine
-        icon_pack: fab
+        icon: devicon/unrealengine
+        icon_pack: devicon
       - name: Unity
         description: ''
         percent: 70
@@ -76,12 +76,12 @@ skills:
       - name: Movies
         description: ''
         percent: 90
-        icon: film
+        icon: hero/film
         icon_pack: hero
       - name: Music Festival
         description: ''
         percent: 80
-        icon: music
+        icon: hero/music
         icon_pack: hero
       - name: Cats
         description: ''

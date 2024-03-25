@@ -6,17 +6,17 @@ type: landing
 
 sections:
   - block: hero
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hugo Academic Theme
+      title: Hi, I am Wing!
       image:
-        filename: hero-academic.png
+        filename: cover.jpg
       cta:
         label: '**Get Started**'
-        url: https://hugoblox.com/templates/
+        url: ''
       cta_alt:
         label: Ask a question
-        url: https://discord.gg/z8wNYzb
+        url: ''
       cta_note:
         label: >-
           <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/theme-academic-cv" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
@@ -33,9 +33,21 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+        image:
+      # Name of image in `assets/media/`.
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+      #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+      # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+      # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+      # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
   - block: about.biography
     id: about
     content:
@@ -65,7 +77,7 @@ sections:
         - title: Profesional Volunteer
           company: 2022 Beijing Winter Olympics
           company_url: ''
-          company_logo: ''
+          company_logo: wo2022
           location: Beijing
           date_start: '2022-01-01'
           date_end: '2022-03-15'
