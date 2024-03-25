@@ -22,7 +22,7 @@ publishDate: '2023-11-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['poster-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 4th International Workshop on Human-centric Multimedia Analysis(HCMA 23)*
@@ -65,7 +65,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - editing style
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

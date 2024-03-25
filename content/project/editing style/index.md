@@ -1,6 +1,6 @@
 ---
 title: Investigate the impact of editing on user's viewing behaviours in panoramic content
-summary:''
+summary: ''
 tags:
   - User Experience
 date: '2022-12-30T00:00:00Z'
