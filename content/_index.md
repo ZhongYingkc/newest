@@ -12,24 +12,28 @@ sections:
       text: |-
         
         
-        
-
-
                    Nice to meet you.
+
+                   🪽
+
+                   🪽
 
                    I am Wing!
 
-        
-        
-        
-        
-        
                    🪽
+
+                   🪽
+
+        
+        
+        
+        
+        
 
     design:
       background:
         image:
-          filename: cover.jpg
+          filename: cover1.jpg
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
