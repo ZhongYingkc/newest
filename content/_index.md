@@ -8,15 +8,15 @@ sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hi, I am Wing!
+      title: Hugo Academic Theme
       image:
-        filename: cover.png
+        filename: hero-academic.png
       cta:
         label: '**Get Started**'
-        url: ''
+        url: https://hugoblox.com/templates/
       cta_alt:
         label: Ask a question
-        url: ''
+        url: https://discord.gg/z8wNYzb
       cta_note:
         label: >-
           <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/theme-academic-cv" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
@@ -67,13 +67,13 @@ sections:
           company_url: ''
           company_logo: wo2022
           location: Beijing
-          date_start: '2022-01-01'
-          date_end: '2022-03-15'
+          date_start: '2022-01'
+          date_end: '2022-03'
           description: |2-
               Responsibilities include:
 
-              * Offering help for photography journalists
-              * Office work in the National Stadium photography department
+              * Offering help for photography journalists.
+              * Office work in the National Stadium photography department.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -99,26 +99,26 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2022-12-25'
+          date_start: '2022-12'
           description: ''
           icon: ''
           organization: Beijing Film Academy
           organization_url: https://www.bfa.edu.cn
-          title: Academic Postgraduate Scholarship
+          title: 'Academic Postgraduate Scholarship'
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2021-12-25'
-          description: '6%'
+          date_start: '2021-12'
+          description: ''
           icon: ''
           organization: Beijing Film Academy
           organization_url: https://www.bfa.edu.cn
-          title: First Class Academic Scholarship
+          title: 'First Class Academic Scholarship'
           url: ''
-        - certificate_url: https://www.datacamp.com
+        - certificate_url: ''
           date_end: ''
-          date_start: '2019-12-25'
-          description: '20%'
+          date_start: '2020-12'
+          description: ''
           icon: ''
           organization: Beijing Film Academy
           organization_url: https://www.bfa.edu.cn
@@ -237,10 +237,10 @@ sections:
         Feel Free to contact me whether you have a question or just want to make friends!
       # Contact (add or remove contact options as necessary)
       email: zhongyingcw@mail.bfa.edu.cn
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      phone: ''
+      appointment_url: ''
       address:
-        street: 4 Xitucheng Rd, Haidian District
+        street: 4 Xitucheng Rd
         city: Beijing
         region: Beijing
         postcode: '100088'
