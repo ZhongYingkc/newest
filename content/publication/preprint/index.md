@@ -43,7 +43,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'feature.jpg'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -53,7 +53,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- semg
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
