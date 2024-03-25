@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Application Evaluation of Sketch-based Modeling in Film Previs"
 authors:
 - admin
-- Robert Ford
+- Feilin Han
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First Author"
+- "My tutor"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-05-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,34 +18,35 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Advanced Motion Picture Technology"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Applying artificial intelligence technology in 3D modeling can simplify the operation of 3D modeling and generate many 3D models in a rapid way. If combining storyboard with 3D modeling, artists can participate in Pre-Visualization, also known as PreViz, production. In recent years, sketch⁃based 3D modeling has been gradually applied to the rapid generation of digital assets. The authors propose a PreViz production process based on sketch⁃based modeling and game engine, and the sketch⁃based 3D modeling method is used to produce the digital assets. The geometric modeling experiment, human and animal modeling experiments, and user experience experiments were designed to analyse the outcomes. This re⁃ search invited 50 participants to conduct a semi⁃structured interview study for evaluating the process. The results showed that the process met the requirements of users' habits, and PreViz satisfied its co⁃creators. This research evaluates the generation capability of sketch⁃based modeling for PreViz production, and explores the potential of artificial intelligence generated content, which is usually named as AIGC, in digital film production.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This research evaluates the generation capability of sketch⁃based modeling for PreViz production, and explores the potential of artificial intelligence generated content, which is usually named as AIGC, in digital film production.
 
 tags:
-- Source Themes
+- [Virtual Production]
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: 'previs.pdf'
+#url_code: ''
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: '2023.png'
   focal_point: ""
   preview_only: false
 
@@ -61,15 +62,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
