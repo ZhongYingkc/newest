@@ -99,7 +99,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2022-12'
+          date_start: '2022-12-25'
           description: ''
           icon: ''
           organization: Beijing Film Academy
@@ -108,7 +108,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2021-12'
+          date_start: '2021-12-25'
           description: ''
           icon: ''
           organization: Beijing Film Academy
@@ -117,7 +117,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2020-12'
+          date_start: '2020-12-25'
           description: ''
           icon: ''
           organization: Beijing Film Academy
