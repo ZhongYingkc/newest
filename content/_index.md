@@ -31,7 +31,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.8
+            brightness: 0.6
         size: cover
         position: center
         parallax: true
@@ -49,7 +49,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.8
+            brightness: 0.6
         size: cover
         position: center
         parallax: true
@@ -68,7 +68,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.8
+            brightness: 0.6
         size: cover
         position: center
         parallax: true
@@ -113,7 +113,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.8
+            brightness: 0.6
         size: cover
         position: center
         parallax: true
@@ -160,33 +160,17 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+      background:
+        image:
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
   - block: portfolio
     id: projects
     content:
@@ -214,6 +198,17 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+      background:
+        image:
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
   - block: collection
     id: featured
     content:
@@ -239,21 +234,38 @@ sections:
     design:
       columns: '2'
       view: citation
+      background:
+        image:
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent & Upcoming Activities
       filters:
         folders:
           - event
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+      background:
+        image:
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
   - block: contact
     id: contact
     content:
@@ -296,4 +308,15 @@ sections:
           captcha: false
     design:
       columns: '2'
+      background:
+        image:
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
 ---
