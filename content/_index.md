@@ -65,7 +65,7 @@ sections:
         - title: Profesional Volunteer
           company: 2022 Beijing Winter Olympics
           company_url: ''
-          company_logo: wo2022
+          company_logo: ''
           location: Beijing
           date_start: '2022-01'
           date_end: '2022-03'
