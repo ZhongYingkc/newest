@@ -40,7 +40,7 @@ sections:
             brightness: 0.8
         size: cover
         position: center
-        parallax: true
+        parallax: false
         text_color_light: true
   - block: about.biography
     id: about
@@ -218,7 +218,7 @@ sections:
         parallax: true
         text_color_light: true
   - block: experience
-    content:
+    content: experience
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
@@ -231,7 +231,7 @@ sections:
       items:
         - title: Profesional Volunteer in Photography
           company: 2022 Beijing Winter Olympics
-          company_url: ''
+          company_url: https://olympics.com/ioc/theme-beijing-2022
           company_logo: wo2022
           location: Beijing
           date_start: '2022-01-01'
