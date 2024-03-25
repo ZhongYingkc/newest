@@ -220,6 +220,17 @@ sections:
     design:
       columns: '2'
       view: card
+      background:
+        image:
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
   - block: collection
     content:
       title: Recent Publications
