@@ -18,7 +18,9 @@ sections:
     design:
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['100px', '100px', '100px', '100px']
+        padding: ['0px', '0px', '0px', '0px']
+        margin: ['0', '0', '0', '0']
+
       background:
         image:
           filename: cover1.jpg
