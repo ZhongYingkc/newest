@@ -5,6 +5,18 @@ date: 2022-10-24
 type: landing
 
 sections:
+  design:
+      background:
+        image:
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
   - block: hero
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
@@ -38,18 +50,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    design:
-      background:
-        image:
-          filename: cover.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-        size: cover
-        position: center
-        parallax: true
-        text_color_light: true
   - block: skills
     content:
       title: Skills
@@ -58,17 +58,6 @@ sections:
       username: admin
     design:
       columns: '1'
-      background:
-        image:
-          filename: cover.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-        size: cover
-        position: center
-        parallax: true
-        text_color_light: true
   - block: portfolio
     id: projects
     content:
@@ -96,17 +85,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-      background:
-        image:
-          filename: cover.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-        size: cover
-        position: center
-        parallax: true
-        text_color_light: true
   - block: collection
     id: featured
     content:
@@ -118,17 +96,6 @@ sections:
     design:
       columns: '2'
       view: card
-      background:
-        image:
-          filename: cover.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-        size: cover
-        position: center
-        parallax: true
-        text_color_light: true
   - block: collection
     content:
       title: Recent Publications
@@ -143,17 +110,6 @@ sections:
     design:
       columns: '2'
       view: compact
-      background:
-        image:
-          filename: cover.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-        size: cover
-        position: center
-        parallax: true
-        text_color_light: true
   - block: experience
     content: 
       title: Experience
@@ -205,17 +161,6 @@ sections:
               * Data Analysing.
     design:
       columns: '2'
-      background:
-        image:
-          filename: cover.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-        size: cover
-        position: center
-        parallax: true
-        text_color_light: true
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -276,17 +221,6 @@ sections:
           url: ''
     design:
       columns: '2'
-      background:
-        image:
-          filename: cover.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-        size: cover
-        position: center
-        parallax: true
-        text_color_light: true
   - block: collection
     id: talks
     content:
@@ -297,17 +231,6 @@ sections:
     design:
       columns: '2'
       view: compact
-      background:
-        image:
-          filename: cover.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-        size: cover
-        position: center
-        parallax: true
-        text_color_light: true
   - block: contact
     id: contact
     content:
@@ -350,15 +273,4 @@ sections:
           captcha: false
     design:
       columns: '2'
-      background:
-        image:
-          filename: cover.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-        size: cover
-        position: center
-        parallax: true
-        text_color_light: true
 ---
