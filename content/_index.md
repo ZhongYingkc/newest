@@ -5,18 +5,31 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: banner
+  - block: hero
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
-      fancyTitle: 'Spectral' # title for frontpage, may include image
-      copyright: "John Doe"
-      description: 'Another fine responsive'
-      startbuttonText: ''
-      startbuttonLink: ''
-      body_is_markdown: true
-      image: cover1.jpg
+      title: Hi, 
+      text: |-
+        I'm Wing🪽
+      primary_action:
+        text: Read more
+        url: '#about'
+        icon: ⬇️
+    design:
+      background:
+        image:
+          filename: cover1.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
   - block: about.biography
     id: about
-    content:
+    content: 
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
