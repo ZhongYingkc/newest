@@ -16,11 +16,11 @@ image:
 
 
 
-links:
-  - icon: 
-    icon_pack: 
-    name: Video
-    url: https://www.bilibili.com/video/BV1eD421L7aa/?vd_source=340b02229354bd7143302a03ede7a802
+#links:
+#  - icon: 
+#    icon_pack: 
+#    name: Video
+#    url: https://www.bilibili.com/video/BV1eD421L7aa/?vd_source=340b02229354bd7143302a03ede7a802
 #url_code: ''
 #url_pdf: ''
 #url_slides: ''
@@ -33,8 +33,9 @@ links:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-CCVR 2022 First Pride
+{{< bilibili id="BV1eD421L7aa" >}}
 
+CCVR 2022 First Pride
 Other team member: Zhou Minxi, Yang Yuxuan, Song Jiaxuan and Chen Nuo
 Instructor: Han Feilin
 

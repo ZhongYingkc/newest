@@ -13,11 +13,8 @@ image:
   caption: Screenshot
   focal_point: Smart
 
-links:
-  - icon: 
-    icon_pack: 
-    name: Video
-    url: https://www.bilibili.com/video/BV1a64y1y7Vi/?spm_id_from=333.999.0.0
+
 ---
+{{< bilibili id="BV1a64y1y7Vi" >}}
 Contribution: plot and cinematography design.
 Other team member: Zhou Minxi and Yang Yuxuan

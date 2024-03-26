@@ -12,11 +12,8 @@ image:
   caption: Screenshot
   focal_point: Smart
 
-links:
-  - icon: 
-    icon_pack: 
-    name: Video
-    url: https://www.bilibili.com/video/BV1cm411C71Q/?vd_source=340b02229354bd7143302a03ede7a802
+
 ---
+{{< bilibili id="BV1cm411C71Q" >}}
 In Beijing.
 Collaborate with Zhou Minxi🩵

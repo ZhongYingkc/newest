@@ -12,10 +12,6 @@ image:
   caption: Screenshot
   focal_point: Smart
 
-links:
-  - icon: 
-    icon_pack: 
-    name: Video
-    url: https://www.bilibili.com/video/BV1zj421d72z/
 ---
 Inspired by Wutiaoren.
+{{< bilibili id="BV1zj421d72z" >}}
