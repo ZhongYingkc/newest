@@ -9,11 +9,12 @@ sections:
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: '**Hi,**'
-      video: {{< video src="covervideo.mp4" controls="yes" >}}
       cta:
         label: 'Know more'
         url: '#about'
       text: |-
+        {{< video src="covervideo.mp4" controls="yes" >}}
+        
         <!--Custom spacing-->
 
         <!--Custom spacing-->
