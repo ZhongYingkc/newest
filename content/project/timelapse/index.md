@@ -19,4 +19,4 @@ links:
     url: https://www.bilibili.com/video/BV1cm411C71Q/?vd_source=340b02229354bd7143302a03ede7a802
 ---
 In Beijing.
-Collaborate with Zhou Minxi
+Collaborate with Zhou Minxi🩵

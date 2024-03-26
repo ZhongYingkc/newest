@@ -35,3 +35,6 @@ links:
 ---
 CCVR 2022 First Pride
 
+Other team member: Zhou Minxi, Yang Yuxuan, Song Jiaxuan and Chen Nuo
+Instructor: Han Feilin
+

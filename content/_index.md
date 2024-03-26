@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: '**Hey～**'
+      title: '**Hi,**'
       cta:
         label: 'Know more'
         url: '#about'
@@ -37,8 +37,45 @@ sections:
 
         <!--Custom spacing-->
 
+        <!--Custom spacing-->
 
-        It's
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        It's **ME**🎶
 
         <!--Custom spacing-->
 
@@ -72,7 +109,37 @@ sections:
 
         <!--Custom spacing-->
 
-        **ME**🎶
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        I am the problem
 
         <!--Custom spacing-->
 
@@ -104,39 +171,7 @@ sections:
 
         <!--Custom spacing-->
 
-        I am the problem～
-
         <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        It's
 
         <!--Custom spacing-->
 
@@ -168,7 +203,39 @@ sections:
 
         <!--Custom spacing-->
 
-        Wing🪽
+        It's Wing🪽
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
 
         <!--Custom spacing-->
 
@@ -202,6 +269,64 @@ sections:
 
         I explore fun things in immersive environment.
        
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
         <!--Custom spacing-->
 
         <!--Custom spacing-->
