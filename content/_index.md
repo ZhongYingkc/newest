@@ -17,7 +17,7 @@ sections:
         It's _ME_🎶   
 
         I am the problem
-        
+
         It's Wing🪽
         {{< figure src="blank.png" >}}
         I explore fun things in immersive environment.
@@ -43,26 +43,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-        size: cover
-        position: center
-        parallax: true
-        text_color_light: true
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
-      background:
-        image:
-          filename: cover.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
+            brightness: 0.3
         size: cover
         position: center
         parallax: true
@@ -104,7 +85,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
+            brightness: 0.3
         size: cover
         position: center
         parallax: true
@@ -126,7 +107,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
+            brightness: 0.3
         size: cover
         position: center
         parallax: true
@@ -151,7 +132,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
+            brightness: 0.3
         size: cover
         position: center
         parallax: true
@@ -213,7 +194,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
+            brightness: 0.3
         size: cover
         position: center
         parallax: true
@@ -284,7 +265,26 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
+            brightness: 0.3
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
+      background:
+        image:
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.3
         size: cover
         position: center
         parallax: true
@@ -305,7 +305,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
+            brightness: 0.3
         size: cover
         position: center
         parallax: true
@@ -358,7 +358,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
+            brightness: 0.3
         size: cover
         position: center
         parallax: true
