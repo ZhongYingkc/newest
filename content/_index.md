@@ -76,7 +76,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: showcase
+      view: grid
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
       background:
@@ -85,7 +85,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.2
+            brightness: 0.1
         size: cover
         position: center
         parallax: true

@@ -13,7 +13,7 @@ image:
   caption: 'On set'
   focal_point: ''
 
-text:|-
+text: |-
   {{< figure src="onset.jpg" >}}
 #links:
 #  - icon: twitter
