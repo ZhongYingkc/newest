@@ -20,7 +20,7 @@ removePathAccents: true
 ############################
 
 theme: 
-- Spectral
+- spectral
 
 
 enableGitInfo: false
