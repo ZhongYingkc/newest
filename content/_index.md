@@ -30,6 +30,7 @@ sections:
           filename: covervideo.mp4
       # Post-processing: flip the video horizontally?
           flip: false
+        text_color_light: true
   - block: about.biography
     id: about
     content: 
@@ -43,7 +44,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.3
+            brightness: 0.2
         size: cover
         position: center
         parallax: true
@@ -85,7 +86,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.3
+            brightness: 0.2
         size: cover
         position: center
         parallax: true
@@ -107,7 +108,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.3
+            brightness: 0.2
         size: cover
         position: center
         parallax: true
@@ -132,7 +133,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.3
+            brightness: 0.2
         size: cover
         position: center
         parallax: true
@@ -194,7 +195,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.3
+            brightness: 0.2
         size: cover
         position: center
         parallax: true
@@ -265,7 +266,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.3
+            brightness: 0.2
         size: cover
         position: center
         parallax: true
@@ -277,14 +278,14 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '1'
+      columns: '2'
       background:
         image:
           filename: cover.jpg
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.3
+            brightness: 0.2
         size: cover
         position: center
         parallax: true
@@ -305,7 +306,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.3
+            brightness: 0.2
         size: cover
         position: center
         parallax: true
@@ -358,7 +359,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.3
+            brightness: 0.2
         size: cover
         position: center
         parallax: true
