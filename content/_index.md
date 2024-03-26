@@ -19,10 +19,9 @@ sections:
         I am the problem
 
         It's Wing🪽
-        {{< figure src="blank.png" >}}
+    
         I explore fun things in immersive environment.
-       
-  
+        {{< figure src="blank.png" >}}
     design:
       background:
         video:
