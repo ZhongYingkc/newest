@@ -14,10 +14,8 @@ sections:
         url: '#about'
       text: |-
         {{< figure src="blank.png" >}}
-        It's _ME_🎶   
-        {{< figure src="blank.png" >}}
+        ##It's _ME_🎶   
         I am the problem
-        {{< figure src="blank.png" >}}
         It's Wing🪽
         {{< figure src="blank.png" >}}
         I explore fun things in immersive environment.
