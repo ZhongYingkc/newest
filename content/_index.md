@@ -138,7 +138,11 @@ sections:
 
         <!--Custom spacing-->
 
-        It's _ME_**🎶        <!--Custom spacing--><!--Custom spacing-->{{< video src="covervideo.mp4" controls="no" >}}
+        (blank.png)
+        
+        It's _ME_**🎶   
+        
+        (blank.png)
 
         <!--Custom spacing-->
 
@@ -202,7 +206,11 @@ sections:
 
         <!--Custom spacing-->
 
+        (blank.png)
+        
         I am the problem
+
+        (blank.png)
 
         <!--Custom spacing-->
 
@@ -327,9 +335,13 @@ sections:
         <!--Custom spacing-->
 
         <!--Custom spacing-->
+
+        (blank.png)
 
         It's Wing🪽
 
+        (blank.png)
+
         <!--Custom spacing-->
 
         <!--Custom spacing-->
@@ -516,8 +528,12 @@ sections:
 
         <!--Custom spacing-->
 
+        (blank.png)
+        
         I explore fun things in immersive environment.
        
+        (blank.png)
+        
         <!--Custom spacing-->
 
         <!--Custom spacing-->
@@ -644,16 +660,11 @@ sections:
   
     design:
       background:
-        image:
-          filename: cover.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-        size: cover
-        position: center
-        parallax: true
-        text_color_light: true
+        video:
+      # Name of video in `assets/media/`.
+          filename: covervideo.mp4
+      # Post-processing: flip the video horizontally?
+          flip: false
   - block: about.biography
     id: about
     content: 

@@ -13,7 +13,8 @@ image:
   caption: Screenshot
   focal_point: Smart
 
-text: {{< bilibili id="BV1a64y1y7Vi" >}}
+text: |-
+{{< bilibili id="BV1a64y1y7Vi" >}}
 ---
 
 Contribution: plot and cinematography design.
