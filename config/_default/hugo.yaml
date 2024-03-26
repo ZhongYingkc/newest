@@ -21,7 +21,7 @@ removePathAccents: true
 
 theme: 
 - Spectral
-- Academic
+
 
 enableGitInfo: false
 summaryLength: 30
