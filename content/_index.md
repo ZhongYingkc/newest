@@ -6,15 +6,21 @@ type: landing
 
 sections:
   - block: hero
-    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hi, 
-      text: |-
-        I'm Wing🪽
+      title: Hugo Blox
+      text: Build your site with blocks 🧱
       primary_action:
-        text: Read more
-        url: '#about'
-        icon: ⬇️
+        text: Get Started
+        url: https://example.com
+        icon: sparkles
+      secondary_action:
+        text: Read the docs
+        url: https://example.com
+      announcement:
+        text: Announcing the release of version 1.
+        link:
+          text: Read more
+          url: https://example.com
     design:
       background:
         image:
