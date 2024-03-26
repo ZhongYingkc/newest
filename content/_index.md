@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: 'github.ZhongYingkc.banner'
+    content:
       fancyTitle: 'Spectral' # title for frontpage, may include image
       copyright: "John Doe"
       description: 'Another fine responsive'
