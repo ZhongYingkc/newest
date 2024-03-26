@@ -3,6 +3,7 @@ title: Investigate the impact of editing on user's viewing behaviours in panoram
 summary: ''
 tags:
   - User Experience
+  - Research Experience
 date: '2022-12-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
