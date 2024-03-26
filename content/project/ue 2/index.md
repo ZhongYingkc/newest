@@ -12,7 +12,7 @@ date: "2023-04-02T00:00:00Z"
 image:
   caption: Screenshot
   focal_point: ''
-
+text: |-
+  {{< bilibili id="BV1Q2421P7oK" >}}
 ---
-{{< bilibili id="BV1Q2421P7oK" >}}
 Inspired by Ronin Kenshin: the Beginning.

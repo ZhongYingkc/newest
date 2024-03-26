@@ -12,8 +12,9 @@ image:
   caption: Screenshot
   focal_point: Smart
 
+text: |-
+  {{< bilibili id="BV1cm411C71Q" >}}
 
 ---
-{{< bilibili id="BV1cm411C71Q" >}}
 In Beijing.
 Collaborate with Zhou Minxi🩵

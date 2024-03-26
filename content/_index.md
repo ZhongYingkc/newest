@@ -138,11 +138,11 @@ sections:
 
         <!--Custom spacing-->
 
-        (blank.png)
+        {{< figure src="blank.png" >}}
         
         It's _ME_**🎶   
         
-        (blank.png)
+        {{< figure src="blank.png" >}}
 
         <!--Custom spacing-->
 
@@ -336,11 +336,11 @@ sections:
 
         <!--Custom spacing-->
 
-        (blank.png)
+        {{< figure src="blank.png" >}}
 
         It's Wing🪽
 
-        (blank.png)
+        {{< figure src="blank.png" >}}
 
         <!--Custom spacing-->
 
@@ -528,11 +528,11 @@ sections:
 
         <!--Custom spacing-->
 
-        (blank.png)
+        {{< figure src="blank.png" >}}
         
         I explore fun things in immersive environment.
        
-        (blank.png)
+        {{< figure src="blank.png" >}}
         
         <!--Custom spacing-->
 

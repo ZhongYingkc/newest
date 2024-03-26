@@ -12,6 +12,7 @@ image:
   caption: Screenshot
   focal_point: Smart
 
+text: |-
+  {{< bilibili id="BV1zj421d72z" >}}
 ---
 Inspired by Wutiaoren.
-{{< bilibili id="BV1zj421d72z" >}}

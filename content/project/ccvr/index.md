@@ -32,9 +32,10 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
----
-{{< bilibili id="BV1eD421L7aa" >}}
 
+text: |-
+  {{< bilibili id="BV1eD421L7aa" >}}
+---
 CCVR 2022 First Pride
 Other team member: Zhou Minxi, Yang Yuxuan, Song Jiaxuan and Chen Nuo
 Instructor: Han Feilin
