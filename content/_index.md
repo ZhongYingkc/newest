@@ -12,15 +12,16 @@ sections:
       text: |-
         
         
+
+
+
+
+
+
                    Nice to meet you.
 
                    I am Wing🪽
     design:
-      spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0px', '0px', '0px', '0px']
-        margin: ['0', '0', '0', '0']
-
       background:
         image:
           filename: cover1.jpg
