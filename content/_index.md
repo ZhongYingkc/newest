@@ -5,34 +5,14 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    demo: false # Only display this section in the Hugo Blox Builder demo site
-    content:
-      title: 
-      text: |-
-        
-        
-
-
-
-
-
-
-                   Nice to meet you.
-
-                   I am Wing🪽
-    design:
-      background:
-        image:
-          filename: cover1.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.8
-        size: cover
-        position: center
-        parallax: false
-        text_color_light: true
+  - block: banner
+      fancyTitle: "Spectral" # title for frontpage, may include image
+      copyright: "John Doe"
+      description: 'Another fine responsive<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.<br />Ported to <a href="//gohugo.io">Hugo</a> by Simon Bruder.'
+      startbuttonText: "Activate"
+      startbuttonLink: "#"
+      body_is_markdown: true
+      image: cover1.jpg"
   - block: about.biography
     id: about
     content:

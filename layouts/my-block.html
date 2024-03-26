@@ -1,0 +1,27 @@
+{{/* My Custom Block */}}
+
+{{/* Get variables */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{/* Add your block layout below */}}
+{{/* Styles can be added to the SCSS file */}}
+{{/* Access custom front matter options via `$block.content`  */}}
+{{/* E.g. Access a `mytext` field via `$block.content.mytext` */}}
+
+{{/* Parse the fields as Markdown with Hugo's `RenderString` */}}
+{{ $title := $block.content.text | emojify | $page.RenderString }}
+{{ $text := $block.content.text | emojify | $page.RenderString }}
+
+<section id="banner">
+	<div class="inner">
+    <h2>{{ .Site.Params.fancytitle | safeHTML }}</h2>
+    <p>{{ .Site.Params.description | safeHTML }}</p>
+    {{ if and .Site.Params.startbuttonText .Site.Params.startbuttonLink }}
+		<ul class="actions special">
+      <li><a href="{{ .Site.Params.StartbuttonLink }}" class="button primary">{{ .Site.Params.StartbuttonText }}</a></li>
+		</ul>
+    {{ end }}
+	</div>
+  <a href="#one" class="more scrolly">{{ i18n "learnmore" }}</a>
+</section>
