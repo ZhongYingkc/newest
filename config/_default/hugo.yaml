@@ -5,8 +5,7 @@
 
 title: 🪽 # Website name
 baseURL: 'https://example.com/' # Website URL
-theme:
-- spectral
+
 ############################
 ## LANGUAGE
 ############################
@@ -19,6 +18,9 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
+
+theme:
+- spectral
 
 enableGitInfo: false
 summaryLength: 30
