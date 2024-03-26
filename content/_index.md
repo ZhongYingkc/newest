@@ -15,7 +15,6 @@ sections:
             brightness: 0.6
         size: cover
         position: center
-        parallax: true
         text_color_light: true
   - block: hero
     demo: false # Only display this section in the Hugo Blox Builder demo site
