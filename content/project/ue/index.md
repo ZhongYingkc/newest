@@ -14,7 +14,7 @@ image:
   focal_point: Smart
 
 text: |-
-{{< bilibili id="BV1a64y1y7Vi" >}}
+  {{< bilibili id="BV1a64y1y7Vi" >}}
 ---
 
 Contribution: plot and cinematography design.
