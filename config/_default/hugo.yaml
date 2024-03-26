@@ -5,7 +5,8 @@
 
 title: 🪽 # Website name
 baseURL: 'https://example.com/' # Website URL
-
+theme:
+- spectral
 ############################
 ## LANGUAGE
 ############################
