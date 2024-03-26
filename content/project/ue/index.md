@@ -3,6 +3,7 @@ title: An Animation video
 summary: An assignment of "Three-Dimensional Real-Time Engine" course using Unreal Engine.
 tags:
   - Virtual Production
+  - Coursework
 date: "2021-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

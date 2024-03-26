@@ -91,6 +91,10 @@ sections:
           tag: User Experience
         - name: Virtual Production
           tag: Virtual Production
+        - name: Research Experience
+          tag: Research Experience
+        - name: Coursework
+          tag: Coursework
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

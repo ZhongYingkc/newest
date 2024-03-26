@@ -3,6 +3,7 @@ title: Investigate the correlation between forearm and hand postural behaviours
 summary: We used Myo Armband to collect forearm sEMG data and explore its correlation with user's cybersickness.
 tags:
   - User Experience
+  - Research Experience
 date: '2023-12-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

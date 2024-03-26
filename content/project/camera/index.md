@@ -3,6 +3,7 @@ title: Investigate the effect of camera movement design in immersive content nar
 summary: We designed three user studies to evaluate the narrative effect of different types of camera setting (position and movement)
 tags:
   - User Experience
+  - Research Experience
 date: '2021-4-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
