@@ -18,7 +18,7 @@ sections:
 
         I am the problem
 
-        It's Wing🪽
+        ## It's _Wing_🪽
     
         I explore fun things in immersive environment.
         {{< figure src="blank.png" >}}
@@ -78,7 +78,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
       background:
         image:
           filename: cover.jpg
