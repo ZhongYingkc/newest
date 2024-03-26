@@ -14,7 +14,8 @@ sections:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
             brightness: 0.6
         size: cover
-        position: centerx
+        position: center
+        parallax: true
         text_color_light: true
   - block: hero
     demo: false # Only display this section in the Hugo Blox Builder demo site
