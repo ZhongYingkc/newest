@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: banner
+  - block: 'github.ZhongYingkcio.createblox'
       fancyTitle: "Spectral" # title for frontpage, may include image
       copyright: "John Doe"
       description: 'Another fine responsive<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.<br />Ported to <a href="//gohugo.io">Hugo</a> by Simon Bruder.'
