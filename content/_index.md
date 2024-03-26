@@ -645,16 +645,8 @@ sections:
   
     design:
       background:
-        image:
-          filename: cover.jpg
-      # Apply image filters?
-          filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-        size: cover
-        position: center
-        parallax: false
-        text_color_light: true
+        video:
+          filename: covervideo.mp4
   - block: about.biography
     id: about
     content: 
