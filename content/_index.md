@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: 'my-block'
+  - block: 'my-block.banner'
     content:
       fancyTitle: 'Spectral' # title for frontpage, may include image
       copyright: "John Doe"
