@@ -8,23 +8,54 @@ sections:
   - block: hero
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hi!
+      title: '**Hi!**'
       cta:
-        label: '**Know more**'
+        label: '**Know more**⬇️'
         url: '#about'
-      cta_alt:
-        label: Ask me question
-        url: '#contact'
       text: |-
         <!--Custom spacing-->
+
         <!--Custom spacing-->
+
+        <!--Custom spacing-->
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+
         **I am Wing 🪽**
+
+        <!--Custom spacing-->
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
 
         <!--Custom spacing-->
 
         <!--Custom spacing-->
 
         I explore fun things in immersive environment.
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
 
         <!--Custom spacing-->
   
