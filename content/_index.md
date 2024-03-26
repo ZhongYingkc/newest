@@ -10,7 +10,7 @@ sections:
     content:
       title: '**Hi!**'
       cta:
-        label: '**Know more**⬇️'
+        label: '⬇️'
         url: '#about'
       text: |-
         <!--Custom spacing-->
@@ -25,7 +25,7 @@ sections:
         <!--Custom spacing-->
 
 
-        **I am Wing 🪽**
+        I am **Wing 🪽**
 
         <!--Custom spacing-->
         <!--Custom spacing-->
@@ -58,6 +58,7 @@ sections:
         <!--Custom spacing-->
 
         <!--Custom spacing-->
+        Know more about me
   
     design:
       background:
