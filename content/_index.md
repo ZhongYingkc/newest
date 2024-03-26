@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: github.ZhongYingkc.banner
+  - block: github.ZhongYingkc.pokemon
     content:
       fancyTitle: 'Spectral' # title for frontpage, may include image
       copyright: "John Doe"
