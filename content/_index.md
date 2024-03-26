@@ -13,7 +13,68 @@ sections:
         label: 'Know more'
         url: '#about'
       text: |-
-        {{< video src="covervideo.mp4" controls="yes" >}}
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
+
+        <!--Custom spacing-->
         
         <!--Custom spacing-->
 
@@ -76,70 +137,8 @@ sections:
         <!--Custom spacing-->
 
         <!--Custom spacing-->
-        
-        <!--Custom spacing-->
 
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        <!--Custom spacing-->
-
-        It's _ME_**🎶
+        It's _ME_**🎶        <!--Custom spacing--><!--Custom spacing-->{{< video src="covervideo.mp4" controls="no" >}}
 
         <!--Custom spacing-->
 
