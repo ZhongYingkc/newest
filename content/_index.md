@@ -9,8 +9,7 @@ sections:
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: '**Hi,**'
-      video:
-        filename: covervideo.mp4
+      {{< video src="covervideo.mp4" controls="yes" >}}
       cta:
         label: 'Know more'
         url: '#about'
@@ -139,7 +138,7 @@ sections:
 
         <!--Custom spacing-->
 
-        It's **ME**🎶
+        It's _ME_**🎶
 
         <!--Custom spacing-->
 
@@ -645,8 +644,16 @@ sections:
   
     design:
       background:
-        video:
-          filename: covervideo.mp4
+        image:
+          filename: cover.jpg
+      # Apply image filters?
+          filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+        size: cover
+        position: center
+        parallax: true
+        text_color_light: true
   - block: about.biography
     id: about
     content: 
