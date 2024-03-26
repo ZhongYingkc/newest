@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: 'github.ZhongYingkc.banner'
+  - block: 'my-block'
     content:
       fancyTitle: 'Spectral' # title for frontpage, may include image
       copyright: "John Doe"
