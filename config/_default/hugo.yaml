@@ -19,7 +19,7 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
-theme: Spectral
+theme: - Spectral
 
 enableGitInfo: false
 summaryLength: 30
