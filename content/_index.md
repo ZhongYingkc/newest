@@ -18,7 +18,7 @@ sections:
 
         I am the problem
 
-        ## **It's _Wing_🪽**
+        ## _It's **Wing_🪽**
     
         I explore fun things in immersive environment.
         {{< figure src="blank.png" >}}
