@@ -13,7 +13,7 @@ image:
   focal_point: ''
 
 image:
-      filename: onset.jpg
+  filename: onset.jpg
 #links:
 #  - icon: twitter
 #    icon_pack: fab
