@@ -132,7 +132,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.2
+            brightness: 0.1
         size: cover
         position: center
         parallax: true
@@ -265,7 +265,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.2
+            brightness: 0.1
         size: cover
         position: center
         parallax: true
@@ -358,7 +358,7 @@ sections:
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.2
+            brightness: 0.1
         size: cover
         position: center
         parallax: true
