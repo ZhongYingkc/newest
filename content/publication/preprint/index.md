@@ -18,11 +18,11 @@ publication_types: [paper-conference"]
 publication: In *2024 IEEE International Conference on Multimedia and Expo (ICME)*
 publication_short: ""
 
-abstract: This paper investigates the relationship between cybersickness and postural behavior, by analyzing the surface electromyography (sEMG) signals and hand movement videos. We conducted a user study to build the sEMG-video Cybersickness Benchmark Dataset (sEMG-CBD) and employed statistical analysis to summarize the regular pattern of participants’ dizziness status under VR experiences. The results indicate that the fluctuations of cybersickness correlate positively with the extent of forearm sEMG signals and hand movements. 
+abstract: ''
 
 
 # Summary. An optional shortened abstract.
-summary:  This paper investigates the relationship between cybersickness and postural behavior, by analyzing the surface electromyography (sEMG) signals and hand movement videos.
+summary:  This paper investigates the relationship between cybersickness and postural behavior.
 
 tags:
 - [User Experience]
@@ -62,4 +62,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
+This paper investigates the relationship between cybersickness and postural behavior, by analyzing the surface electromyography (sEMG) signals and hand movement videos. We conducted a user study to build the sEMG-video Cybersickness Benchmark Dataset (sEMG-CBD) and employed statistical analysis to summarize the regular pattern of participants’ dizziness status under VR experiences. The results indicate that the fluctuations of cybersickness correlate positively with the extent of forearm sEMG signals and hand movements. 
