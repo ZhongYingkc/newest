@@ -6,13 +6,13 @@ type: landing
 
 sections:
   - block: 'github.ZhongYingkc.banner'
-      fancyTitle: "Spectral" # title for frontpage, may include image
+      fancyTitle: 'Spectral' # title for frontpage, may include image
       copyright: "John Doe"
-      description: 'Another fine responsive<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.<br />Ported to <a href="//gohugo.io">Hugo</a> by Simon Bruder.'
-      startbuttonText: "Activate"
-      startbuttonLink: "#"
+      description: 'Another fine responsive'
+      startbuttonText: ''
+      startbuttonLink: ''
       body_is_markdown: true
-      image: cover1.jpg"
+      image: cover1.jpg
   - block: about.biography
     id: about
     content:
