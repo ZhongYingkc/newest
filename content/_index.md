@@ -16,11 +16,11 @@ sections:
         {{< figure src="blank.png" >}}
         ## _It's ME_🎶   
 
-        #### I am the problem
+        I am the problem
 
         ### It's _Wing_🪽
     
-        #### I explore fun things in immersive environment.
+        I explore fun things in immersive environment.
         {{< figure src="blank.png" >}}
     design:
       background:
