@@ -9,6 +9,8 @@ sections:
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: '**Hi,**'
+      video:
+        filename: covervideo.mp4
       cta:
         label: 'Know more'
         url: '#about'
@@ -644,7 +646,7 @@ sections:
     design:
       background:
         image:
-          filename: cover1.jpg
+          filename: cover.jpg
       # Apply image filters?
           filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
