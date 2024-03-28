@@ -18,6 +18,7 @@ sections:
         #url: '#about'
       text: |-
         {{< figure src="blank.png" >}}
+        {{< figure src="blank.png" >}}
         ## _It's [ME](https://www.youtube.com/watch?v=b1kbLwvqugk)_🎶   
 
         I am the problem
@@ -25,6 +26,7 @@ sections:
         ## _It's_ **_Wing_🪽**
     
         I explore fun things in immersive environment.
+        {{< figure src="blank.png" >}}
         {{< figure src="blank.png" >}}
     design:
       css_class: "dark min-h-screen"
