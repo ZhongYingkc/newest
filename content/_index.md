@@ -4,6 +4,9 @@ title: ''
 date: 2022-10-24
 type: landing
 
+design:
+  spacing: "6rem"
+
 sections:
   - block: hero
     demo: false # Only display this section in the Hugo Blox Builder demo site
@@ -25,7 +28,12 @@ sections:
         I explore fun things in immersive environment.
         {{< figure src="blank.png" >}}
     design:
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
+        #min-h-screen
       background:
+        color: "zinc"
         video:
       # Name of video in `assets/media/`.
           filename: covervideo.mp4
