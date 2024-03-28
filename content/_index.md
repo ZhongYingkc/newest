@@ -27,8 +27,7 @@ sections:
         I explore fun things in immersive environment.
         {{< figure src="blank.png" >}}
     design:
-      spacing: 
-        padding: "min-h-screen"
+      css_class: "dark min-h-screen"
       background:
         color: "zinc"
         video:
