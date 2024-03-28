@@ -35,6 +35,8 @@ sections:
           filename: covervideo.mp4
       # Post-processing: flip the video horizontally?
           flip: false
+        size: cover
+        position: center
         text_color_light: true
   - block: about.biography
     id: about
