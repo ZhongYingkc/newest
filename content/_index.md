@@ -13,9 +13,9 @@ sections:
       image: 
         filename: blank.png
       title: '**Hi,**'
-      cta:
-        label: 'Know more'
-        url: '#about'
+      #cta:
+        #label: 'Know more'
+        #url: '#about'
       text: |-
         {{< figure src="blank.png" >}}
         ## _It's [ME](https://www.youtube.com/watch?v=b1kbLwvqugk)_🎶   
