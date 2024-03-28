@@ -4,8 +4,7 @@ title: ''
 date: 2022-10-24
 type: landing
 
-design:
-  spacing: "6rem"
+
 
 sections:
   - block: hero
