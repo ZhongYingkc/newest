@@ -30,7 +30,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-        #min-h-screen
+        "min-h-screen"
       background:
         color: "zinc"
         video:
