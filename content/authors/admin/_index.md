@@ -122,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Ying Zhong is a postgraduate student of digital film technology at the Virtual Reality Lab of the Department of Film and Television Technology in Beijing Film Academy. Her research interets include user experience, human-computer interaction and human-centric designe in immersive environment.
+Ying Zhong is a postgraduate student of digital film technology at the Virtual Reality Lab of the Department of Film and Television Technology in Beijing Film Academy. Her research interets include user experience, human-computer interaction and human-centric design in immersive environment.
 {style="text-align: justify;"}
