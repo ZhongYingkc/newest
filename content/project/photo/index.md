@@ -3,7 +3,7 @@ title: A photography collection.
 summary: 'A coursework of "colour grading" course (Sophomore).'
 tags:
   - Coursework
-date: '2020-5-30'
+date: '2020-05-30'
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ''

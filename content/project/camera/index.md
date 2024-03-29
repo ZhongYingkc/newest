@@ -4,7 +4,7 @@ summary: We designed three user studies to evaluate the narrative effect of diff
 tags:
   - User Experience
   - Research Experience
-date: '2021-4-30T00:00:00Z'
+date: '2021-04-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
