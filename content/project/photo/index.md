@@ -3,7 +3,7 @@ title: A photography collection.
 summary: 'A coursework of "colour grading" course (Sophomore).'
 tags:
   - Coursework
-date: '2020-05-30'
+date: '2020-05-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ''
@@ -18,7 +18,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 #url_code: ''
-url_pdf: colorist.pdf
+url_pdf: https://drive.google.com/file/d/1utmViLLdmXjfiWsXZcxXNg4XikxYbL5_/view?usp=drive_link
 #url_slides: ''
 #url_video: ''
 
