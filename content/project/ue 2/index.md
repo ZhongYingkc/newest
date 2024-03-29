@@ -13,7 +13,7 @@ image:
   caption: Screenshot
   focal_point: ''
 
-url_video: https://www.bilibili.com/video/BV1Q2421P7o/
+url_video: https://www.bilibili.com/video/BV1Q2421P7oK/
 
 text: |-
   {{< bilibili id="BV1Q2421P7oK" >}}
