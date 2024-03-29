@@ -12,6 +12,9 @@ date: "2023-04-02T00:00:00Z"
 image:
   caption: Screenshot
   focal_point: ''
+
+url_video: https://www.bilibili.com/video/BV1Q2421P7o/
+
 text: |-
   {{< bilibili id="BV1Q2421P7oK" >}}
 ---

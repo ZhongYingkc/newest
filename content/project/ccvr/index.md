@@ -24,7 +24,7 @@ image:
 #url_code: ''
 #url_pdf: ''
 #url_slides: ''
-#url_video: ''
+url_video: https://www.bilibili.com/video/BV1eD421L7aa/
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

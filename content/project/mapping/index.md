@@ -12,6 +12,9 @@ image:
   caption: Screenshot
   focal_point: Smart
 
+
+url_video: https://www.bilibili.com/video/BV1zj421d72z/
+
 text: |-
   {{< bilibili id="BV1zj421d72z" >}}
 ---
