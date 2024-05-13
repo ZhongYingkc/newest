@@ -36,10 +36,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MA in Digital Film Technology
+    - course: M.A., Digital Film Technology
       institution: Beijing Film Acadamy
       year: 2022-present
-    - course: BEng in Digital Media Technology
+    - course: B.Eng., Digital Media Technology
       institution: Beijing Film Acadamy
       year: 2018-2022
     
