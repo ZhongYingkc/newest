@@ -28,7 +28,7 @@ organizations:
 bio: My research interests include user experience and human-computer interaction in immersive environment.
 
 # Interests to show in About widget
-fields of interest:
+interest:
   - User Experience
   - Human-Computer Interaction
   - Virtual Reality
