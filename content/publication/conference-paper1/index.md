@@ -41,7 +41,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
  - name: PDF
-   url: 'uploads/publication2022icme.pdf'
+   url: 'publication2022icme.pdf'
 
 #url_pdf: 'uploads/publication2022icme.pdf'
 #url_code: ''
