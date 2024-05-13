@@ -11,7 +11,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'First Author (my tutor)'
+  - 'First Author (my advisor)'
 
 date: '2022-07-01T00:00:00Z'
 doi: '10.1109/ICME52920.2022.9859864'

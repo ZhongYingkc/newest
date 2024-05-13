@@ -11,7 +11,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'First Author (my tutor)'
+  - 'First Author (my advisor)'
 
 date: '2023-11-01T00:00:00Z'
 doi: 'https://doi.org/10.1145/3606041.3618060'
@@ -39,11 +39,11 @@ tags: [User Experience]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: PDF
+   url: 'publication2023acmmm.pdf'
 
-url_pdf: 'publication2023acmmm.pdf'
+#url_pdf: 'publication2023acmmm.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''

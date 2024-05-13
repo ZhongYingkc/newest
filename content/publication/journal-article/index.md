@@ -5,7 +5,7 @@ authors:
 - Feilin Han
 author_notes:
 - "First Author"
-- "My tutor"
+- "My advisor"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -31,10 +31,10 @@ tags:
 - [Virtual Production]
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'previs.pdf'
+links:
+ - name: "PDF"
+   url: 'previs.pdf'
+#url_pdf: 'previs.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
