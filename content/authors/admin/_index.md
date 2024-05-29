@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhong Ying
+title: Ying Zhong
 
 # Name pronunciation (optional)
 name_pronunciation: Chung Wing (in Cantonese)
