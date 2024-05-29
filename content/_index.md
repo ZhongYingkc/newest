@@ -161,6 +161,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Teaching Assistant
+          company: Beijing Film Academy
+          #company_url: https://mobile.youdao.com
+          company_logo: netease
+          location: Beijing
+          date_start: '2024-05-01'
+          date_end: '2024-07-01'
+          description: |2-
+              Responsibilities include:
+
+              * Conducted VR project development tutorials.
+              * Conducted 360-video shooting tutorials.
+              * Assisted students to develop VR content projects.
         - title: Internship in Oversea Influencer Marketing
           company: Netease youdao
           company_url: https://mobile.youdao.com
