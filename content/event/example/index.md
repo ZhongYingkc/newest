@@ -11,9 +11,9 @@ summary: I'll attend the ICME 2024. Meet me there, and let's make friends!
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-15'
-date_end: '2024-07-19'
-all_day: false
+date: '2024-07-15T09:00:00Z'
+date_end: '2024-07-19T15:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -50,8 +50,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
+
 projects:
-  - example
+  - projects = ["content/project/semg/index.md"]
+
 ---
 
 Maybe not, if my visa is not approved :(
