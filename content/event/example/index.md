@@ -9,10 +9,12 @@ location: Niagara Falls, Canada
 
 summary: I'll attend the ICME 2024. Meet me there, and let's make friends!
 
+#abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-15T09:00:00Z'
-date_end: '2024-07-19T15:00:00Z'
+date: '2024-07-15T13:00:00Z'
+date_end: '2024-07-09T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -25,14 +27,14 @@ tags: []
 featured: false
 
 image:
-  caption: ''
-  focal_point: ''
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
-#inks:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
+#links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
 #url_code: ''
 #url_pdf: ''
 #url_slides: ''
@@ -43,17 +45,18 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: example
+slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-
 projects:
-  - projects = ["content/project/semg/index.md"]
-
+  - url: 'content/project/semg/index.md'
 ---
 
+{{% callout note %}}
 Maybe not, if my visa is not approved :(
+{{% /callout %}}
+
