@@ -164,7 +164,7 @@ sections:
         - title: Teaching Assistant
           company: Beijing Film Academy
           #company_url: https://mobile.youdao.com
-          company_logo: netease
+          company_logo: vr
           location: Beijing
           date_start: '2024-05-01'
           date_end: '2024-07-01'
