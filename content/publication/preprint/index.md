@@ -1,5 +1,5 @@
 ---
-title: "The Correlation Analysis between Cybersickness and Postural Behavior in Immersive Viewing Experience"
+title: "Cybersickness and Postural Behavior in Immersive Viewing Experience"
 authors:
 - admin
 - Feilin Han
@@ -62,4 +62,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-This paper investigates the relationship between cybersickness and postural behavior, by analyzing the surface electromyography (sEMG) signals and hand movement videos. We conducted a user study to build the sEMG-video Cybersickness Benchmark Dataset (sEMG-CBD) and employed statistical analysis to summarize the regular pattern of participants’ dizziness status under VR experiences. The results indicate that the fluctuations of cybersickness correlate positively with the extent of forearm sEMG signals and hand movements. 
+This paper investigates the relationship between cybersickness and postural behavior, by analyzing sEMG signals and hand movement. A user study is conducted to build the sEMG-video Cybersickness Benchmark Dataset and employed statistical analysis to summarize the regular pattern of participants’ dizziness status The results indicate that the fluctuations of cybersickness correlate positively with the extent of forearm sEMG signals and hand movements. 
