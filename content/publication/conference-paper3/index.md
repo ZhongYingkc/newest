@@ -1,5 +1,5 @@
 ---
-title: 'SimUAVs - A UAV Telepresence Simulation Platform with Multi-agent Sensing and Dynamic Environment'
+title: "SimUAVs - A UAV Telepresence Simulation Platform with Multi-agent Sensing and Dynamic Environment"
 authors:
   - Feilin Han
   - Leping Zhang
