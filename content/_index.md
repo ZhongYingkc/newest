@@ -205,6 +205,18 @@ sections:
 
               * Estabilishing playlists for promotion.
               * Data Analysing.
+        - title: Volunteer in Technical Department
+          company: International Student Film and Video Festival (ISFVF)
+          company_url: https://isfvf-eng.bfa.edu.cn
+          company_logo: isfvf
+          location: Beijing
+          date_start: '2019-05-01'
+          date_end: '2021-12-15'
+          description: |2-
+              Responsibilities include:
+
+              * Member of Technical Department (Special Screening section) in 2019 and Leader in 2020.
+              * Subtitiled and produced digital cinema package (DCP) for films in the section.
     design:
       columns: '2'
       background:
