@@ -19,7 +19,7 @@ author_notes:
   - 'My advisor'
 
 date: '2024-07-12T00:00:00Z'
-#doi: 
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-10-28T00:00:00Z'
@@ -38,9 +38,7 @@ abstract: This paper presents the architecture, features, and capabilities of Si
 # Summary. An optional shortened abstract.
 summary: In this paper, we conducted within-subject repeated-measures experiments on 22 participants in an HMD-based immersive environment, to explore the correlation between viewing experience and comprehensive factors.
 
-tags: 
-- [Human-computer Interaction]
-- [User Experience]
+tags: [Human-computer Interaction]
 
 # Display this page in the Featured widget?
 featured: false
@@ -81,4 +79,3 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-My contribution in this project are designing user interface and the foliage and the weather in virtual enviroment. Also, this work was supported by THU-Beijing National Research Center Open Research Project.
