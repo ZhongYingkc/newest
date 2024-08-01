@@ -22,6 +22,9 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 60
+  - name: Portfolio
+    url: 'https://1drv.ms/b/s!AjjWwhTVWZDag4hvtbdLXIipP7kZOQ?e=zgh13D'
+    weight: 70
 
 
 # Link to a PDF of your resume/CV from the menu.
