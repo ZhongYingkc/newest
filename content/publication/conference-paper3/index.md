@@ -1,9 +1,5 @@
 ---
 title: 'SimUAVs - A UAV Telepresence Simulation Platform with Multi-agent Sensing and Dynamic Environment'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
   - Feilin Han
   - Leping Zhang
@@ -19,7 +15,7 @@ author_notes:
   - 'My advisor'
 
 date: '2024-07-12T00:00:00Z'
-doi: ''
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-10-28T00:00:00Z'
@@ -27,18 +23,19 @@ publishDate: '2024-10-28T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: [paper-conference]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 32nd ACM International Conference on Multimedia* Technical Demostrations Session
-publication_short:
+publication_short: ""
 
 abstract: This paper presents the architecture, features, and capabilities of SimUAVs. Leveraging Unreal Engine (UE), AirSim APIs, and ROS (Robot Operating System), our platform enables realistic simulations, mirroring real-world conditions and facilitating research in UAV technology.
 
 # Summary. An optional shortened abstract.
 summary: In this paper, we conducted within-subject repeated-measures experiments on 22 participants in an HMD-based immersive environment, to explore the correlation between viewing experience and comprehensive factors.
 
-tags: [Human-computer Interaction]
+tags: 
+- [Human-computer Interaction]
 
 # Display this page in the Featured widget?
 featured: false
@@ -79,3 +76,4 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+My contribution in this project are designing user interface and the foliage and the weather in virtual enviroment. Also, this work was supported by THU-Beijing National Research Center Open Research Project.
