@@ -31,14 +31,15 @@ publication_types: ['Demo']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 32nd ACM International Conference on Multimedia* Technical Demostrations Session
-publication_short: 
+publication_short: ""
 
 abstract: Unmanned Aerial Vehicles (UAVs) are necessary across diverse domains, including disaster surveillance and wildlife conservation. However, the development and evaluation of UAV-related algorithms often encounter a significant hurdle: the scarcity of authentic training data. In this paper, we introduce SimUAVs, a telepresence simulation platform with a dynamic environment, serving as a realistic synthetic data generation, performance evaluation, and visualization tool for multi-agent collaboration learning. This paper presents the architecture, features, and capabilities of SimUAVs. Leveraging Unreal Engine (UE), AirSim APIs, and ROS (Robot Operating System), our platform enables realistic simulations, mirroring real-world conditions and facilitating research in UAV technology.
 
 # Summary. An optional shortened abstract.
 summary: This paper presents the architecture, features, and capabilities of SimUAVs. Leveraging Unreal Engine (UE), AirSim APIs, and ROS (Robot Operating System), our platform enables realistic simulations, mirroring real-world conditions and facilitating research in UAV technology.
 
-tags: [Human-computer Interaction]
+tags: 
+- [Human-computer Interaction]
 
 # Display this page in the Featured widget?
 featured: false
