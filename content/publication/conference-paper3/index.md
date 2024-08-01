@@ -36,7 +36,7 @@ publication_short:
 abstract: This paper presents the architecture, features, and capabilities of SimUAVs. Leveraging Unreal Engine (UE), AirSim APIs, and ROS (Robot Operating System), our platform enables realistic simulations, mirroring real-world conditions and facilitating research in UAV technology.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we present a platform named SimUAVs enabling realistic simulations and facilitating research in UAV technology.
+summary: In this paper, we conducted within-subject repeated-measures experiments on 22 participants in an HMD-based immersive environment, to explore the correlation between viewing experience and comprehensive factors.
 
 tags: [Human-computer Interaction] [User Experience]
 
