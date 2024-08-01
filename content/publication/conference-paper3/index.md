@@ -38,7 +38,7 @@ abstract: Unmanned Aerial Vehicles (UAVs) are necessary across diverse domains, 
 # Summary. An optional shortened abstract.
 summary: This paper presents the architecture, features, and capabilities of SimUAVs. Leveraging Unreal Engine (UE), AirSim APIs, and ROS (Robot Operating System), our platform enables realistic simulations, mirroring real-world conditions and facilitating research in UAV technology.
 
-tags: [Human-computer Interaction]
+tags: [Human-computer Interaction] [User Experience]
 
 # Display this page in the Featured widget?
 featured: false
