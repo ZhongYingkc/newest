@@ -38,7 +38,9 @@ abstract: This paper presents the architecture, features, and capabilities of Si
 # Summary. An optional shortened abstract.
 summary: In this paper, we conducted within-subject repeated-measures experiments on 22 participants in an HMD-based immersive environment, to explore the correlation between viewing experience and comprehensive factors.
 
-tags: [Human-computer Interaction] [User Experience]
+tags: 
+- [Human-computer Interaction]
+- [User Experience]
 
 # Display this page in the Featured widget?
 featured: false
