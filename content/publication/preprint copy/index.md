@@ -26,7 +26,7 @@ summary:  This paper investigates the relationship between cybersickness and pos
 
 tags:
 - [User Experience]
-featured: True
+featured: false
 
 links:
 #- name: Custom Link

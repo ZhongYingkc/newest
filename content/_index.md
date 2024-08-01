@@ -112,9 +112,7 @@ sections:
       background:
         image:
           filename: cover.jpg
-      # Apply image filters?
           filters:
-        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
             brightness: 0.2
         size: cover
         position: center
@@ -130,7 +128,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: List
