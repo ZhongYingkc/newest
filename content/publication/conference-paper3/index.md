@@ -31,12 +31,12 @@ publication_types: ['Demo-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 32nd ACM International Conference on Multimedia* Technical Demostrations Session
-publication_short: ''
+publication_short:
 
 abstract: This paper presents the architecture, features, and capabilities of SimUAVs. Leveraging Unreal Engine (UE), AirSim APIs, and ROS (Robot Operating System), our platform enables realistic simulations, mirroring real-world conditions and facilitating research in UAV technology.
 
 # Summary. An optional shortened abstract.
-summary: This paper presents the architecture, features, and capabilities of SimUAVs. Leveraging Unreal Engine (UE), AirSim APIs, and ROS (Robot Operating System), our platform enables realistic simulations, mirroring real-world conditions and facilitating research in UAV technology.
+summary: In this paper, we present a platform named SimUAVs enabling realistic simulations and facilitating research in UAV technology.
 
 tags: [Human-computer Interaction] [User Experience]
 
