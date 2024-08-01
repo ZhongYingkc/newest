@@ -29,9 +29,9 @@ bio: My research interests include user experience and human-computer interactio
 
 # Interests to show in About widget
 interest:
-  - User Experience
+  - User Experience Design
   - Human-Computer Interaction
-  - Virtual Reality
+  - VR, AR and XR
 
 # Education to show in About widget
 education:
@@ -122,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Ying Zhong is a postgraduate student of digital film technology at the Virtual Reality Lab of the Department of Film and Television Technology in Beijing Film Academy. Her research interets include user experience, human-computer interaction and human-centric design in immersive environment.
+Ying Zhong is a postgraduate student of digital film technology at the Virtual Reality Lab of the Department of Film and Television Technology in Beijing Film Academy. Her research interets include user experience design, human-computer interaction and human-centric design in immersive environment.
 {style="text-align: justify;"}
