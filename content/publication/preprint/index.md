@@ -1,5 +1,5 @@
 ---
-title: "Cybersickness and Postural Behavior in Immersive Viewing Experience"
+title: "The Correlation Analysis Between Cybersickness and Postural Behavior in Immersive VR Experience"
 authors:
 - admin
 - Feilin Han
@@ -18,7 +18,7 @@ publication_types: [paper-conference]
 publication: In *2024 IEEE International Conference on Multimedia and Expo (ICME)*
 publication_short: ""
 
-abstract: ''
+abstract: 'Cybersickness detection is one of the primary tasks in Virtual Reality (VR) content production. The existing sub- jective and objective studies on cybersickness give few guiding implications to VR content creators. To do experimental verifica- tion on previous hypotheses and propose design guidelines, this paper investigates the relationship between cybersickness and postural behavior, by analyzing the surface electromyography (sEMG) signals and hand movement videos. We conducted a user study to build the sEMG-video Cybersickness Benchmark Dataset (sEMG-CBD) and employed statistical analysis to sum- marize the regular pattern of participants’ dizziness status under VR experiences. The results indicate that the fluctuations of cybersickness correlate positively with the extent of forearm sEMG signals and hand movements. The preliminary analysis implies the potentiality of sEMG-based cybersickness detection being used as one of the significant representations of VR viewing experience, which could contribute to VR content production.'
 
 
 # Summary. An optional shortened abstract.
