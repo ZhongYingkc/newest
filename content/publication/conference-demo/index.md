@@ -30,7 +30,7 @@ abstract: 'This paper presents the architecture, features, and capabilities of S
 summary: In this paper, we present a platform named SimUAVs.
 
 tags: 
-- [Human-computer Interaction]
+- [User Experience]
 featured: false
 
 links:
