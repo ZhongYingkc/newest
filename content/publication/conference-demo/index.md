@@ -9,16 +9,11 @@ authors:
   - Ziyi Su
   - Tongtong Feng
   - Wenwu Zhu
-
-# Author notes (optional)
-author_notes:
-  - 'My advisor'
-
 date: '2024-07-12T00:00:00Z'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-28T00:00:00Z'
+publishDate: "2024-10-28T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,18 +24,15 @@ publication_types: [paper-conference]
 publication: In *Proceedings of the 32nd ACM International Conference on Multimedia* Technical Demostrations Session
 publication_short: ""
 
-abstract: This paper presents the architecture, features, and capabilities of SimUAVs. Leveraging Unreal Engine (UE), AirSim APIs, and ROS (Robot Operating System), our platform enables realistic simulations, mirroring real-world conditions and facilitating research in UAV technology.
+abstract: 'This paper presents the architecture, features, and capabilities of SimUAVs. Leveraging Unreal Engine (UE), AirSim APIs, and ROS (Robot Operating System), our platform enables realistic simulations, mirroring real-world conditions and facilitating research in UAV technology.'
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we conducted within-subject repeated-measures experiments on 22 participants in an HMD-based immersive environment, to explore the correlation between viewing experience and comprehensive factors.
+summary: In this paper, we present a platform named SimUAVs.
 
 tags: 
 - [Human-computer Interaction]
-
-# Display this page in the Featured widget?
 featured: false
 
-# Custom links (uncomment lines below)
 links:
  - name: Video
    url: 'https://www.youtube.com/watch?v=G_fpFyRQBt0'
