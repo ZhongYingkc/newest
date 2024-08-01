@@ -19,7 +19,7 @@ author_notes:
   - 'My advisor'
 
 date: '2024-07-12T00:00:00Z'
-doi: 
+#doi: 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-10-28T00:00:00Z'
@@ -31,8 +31,9 @@ publication_types: ['Demo-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 32nd ACM International Conference on Multimedia* Technical Demostrations Session
-# publication_short:
-abstract: Unmanned Aerial Vehicles (UAVs) are necessary across diverse domains, including disaster surveillance and wildlife conservation. However, the development and evaluation of UAV-related algorithms often encounter a significant hurdle: the scarcity of authentic training data. In this paper, we introduce SimUAVs, a telepresence simulation platform with a dynamic environment, serving as a realistic synthetic data generation, performance evaluation, and visualization tool for multi-agent collaboration learning. This paper presents the architecture, features, and capabilities of SimUAVs. Leveraging Unreal Engine (UE), AirSim APIs, and ROS (Robot Operating System), our platform enables realistic simulations, mirroring real-world conditions and facilitating research in UAV technology.
+publication_short: 
+
+abstract: Panoramic video offers an immersive viewing experience in which viewers can actively explore 360-degree motion pictures and engage with the narrative. Studying user visual attention behavior could help us to have a better understanding of video processing, semantic learning, and coding in 360-degree videos. In this paper, we developed two attention visualization toolkits, visual saliency map and semantic attention annotation, for collecting ROI data. The practice-based analytical methodology is employed to discuss user behavior while viewing panoramic shorts. We gathered viewing behavior data from 23 participants and visualized attention saliency to analyze the viewers' visual attention behavior and narrative cognition process. According to the collected data, we summarize attention distribution regulations and derive practical insights into the aspects of learning decision-making for panorama production.
 
 # Summary. An optional shortened abstract.
 summary: This paper presents the architecture, features, and capabilities of SimUAVs. Leveraging Unreal Engine (UE), AirSim APIs, and ROS (Robot Operating System), our platform enables realistic simulations, mirroring real-world conditions and facilitating research in UAV technology.
