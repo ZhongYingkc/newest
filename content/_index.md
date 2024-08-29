@@ -19,9 +19,8 @@ sections:
       text: |-
         {{< figure src="blank.png" >}}
         {{< figure src="blank.png" >}}
+        ## _It's_ *_Wing_🪽*
         {{< figure src="blank.png" >}}
-        ## _It's_ **_Wing_🪽**
-    
         I explore fun things in immersive environment.
         {{< figure src="blank.png" >}}
         {{< figure src="blank.png" >}}
