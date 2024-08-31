@@ -123,5 +123,6 @@ highlight_name: true
 ---
 
 Ying Zhong is a 3rd year Master student in the Department of Film and Television Technology at Beijing Film Academy. She is currently working with [Dr. Feilin Han](http://feilinh.cn) in Virtual Reality Lab. Her research interets include Human-Computer Interaction, User Experience, Human-Centric Computation and eXtended Reality. She focuses on designing embodied interactions to enhance users' abilities in immersive environments.
-Prior to her Master's' program, she received her BEng in Digtial Media Technology from Beijing Film Academy.
+
+Prior to her Master's program, she received her BEng in Digtial Media Technology from Beijing Film Academy.
 {style="text-align: justify;"}
