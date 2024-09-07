@@ -40,7 +40,7 @@ sections:
   - block: about.biography
     id: about
     content: 
-      title: Biography
+      title:  
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     design:
@@ -249,7 +249,7 @@ sections:
           icon: ''
           organization: Beijing Film Academy
           organization_url: https://www.bfa.edu.cn
-          title: 'Academic Postgraduate Scholarship'
+          title: 'Postgraduate Academic Scholarship'
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -258,7 +258,7 @@ sections:
           icon: ''
           organization: Beijing Film Academy
           organization_url: https://www.bfa.edu.cn
-          title: 'First Class Academic Scholarship'
+          title: 'First Class Outstanding Student Scholarship'
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -276,7 +276,7 @@ sections:
           icon: ''
           organization: Beijing Film Academy
           organization_url: https://www.bfa.edu.cn
-          title: 'Thrid Class Academic Scholarship'
+          title: 'Thrid Class Outstanding Student Scholarship'
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -285,7 +285,7 @@ sections:
           icon: ''
           organization: Beijing Film Academy
           organization_url: https://www.bfa.edu.cn
-          title: 'Thrid Class Academic Scholarship'
+          title: 'Thrid Class Outstanding Student Scholarship'
           url: ''
     design:
       columns: '2'
