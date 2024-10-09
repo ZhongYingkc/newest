@@ -36,7 +36,7 @@ interest:
 # Education to show in About widget
 education:
   courses:
-    - course: M.A., Digital Film Technology
+    - course: M.A., Film Production Studies
       institution: Beijing Film Acadamy
       year: 2022-present
     - course: B.Eng., Digital Media Technology
