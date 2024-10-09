@@ -262,30 +262,12 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2021-10-17'
-          description: ''
-          icon: ''
-          organization: The 5th China Competition on Virtual Reality(CCVR 2022)
-          organization_url: http://ccvr.aconf.cn/index.html
-          title: 'CCVR First Pride'
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2020-12-25'
-          description: ''
-          icon: ''
-          organization: Beijing Film Academy
-          organization_url: https://www.bfa.edu.cn
-          title: 'Thrid Class Outstanding Student Scholarship'
-          url: ''
-        - certificate_url: ''
-          date_end: ''
           date_start: '2019-12-25'
-          description: ''
+          description: '2019, 2020, 2021'
           icon: ''
           organization: Beijing Film Academy
           organization_url: https://www.bfa.edu.cn
-          title: 'Thrid Class Outstanding Student Scholarship'
+          title: 'Outstanding Student Scholarship'
           url: ''
     design:
       columns: '2'
