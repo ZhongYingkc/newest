@@ -1,7 +1,7 @@
 ---
 title: "Application Evaluation of Sketch-based Modeling in Film Previs"
 authors:
-- admin
+- Ying Zhong
 - Feilin Han
 author_notes:
 - "First Author"

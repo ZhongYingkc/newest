@@ -6,7 +6,7 @@ title: 'Evaluating the Effect of Cinematography on the Viewing Experience in Imm
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Feilin Han
-  - admin
+  - Ying Zhong
   - Minxi Zhou
 
 # Author notes (optional)

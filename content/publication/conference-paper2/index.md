@@ -6,7 +6,7 @@ title: 'An Analytical Study of Visual Attention Behavior in Viewing Panoramic Vi
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Feilin Han
-  - admin
+  - Ying Zhong
   - Ke-Ao Zhao
 
 # Author notes (optional)

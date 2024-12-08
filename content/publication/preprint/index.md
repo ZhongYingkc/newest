@@ -1,7 +1,11 @@
 ---
 title: "The Correlation Analysis Between Cybersickness and Postural Behavior in Immersive VR Experience"
 authors:
-- admin
+- Ying Zhong
+- Ke-Ao Zhao
+- Leping Zhang
+- Fangming Zhao
+- Wentao Wei
 - Feilin Han
 date: "2023-12-07T00:00:00Z"
 doi: ""

@@ -5,7 +5,7 @@ authors:
   - Leping Zhang
   - Xin Wang
   - Ke-Ao Zhao
-  - admin
+  - Ying Zhong
   - Ziyi Su
   - Tongtong Feng
   - Wenwu Zhu
