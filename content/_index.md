@@ -330,7 +330,7 @@ sections:
       text: |-
         Feel Free to contact me whether you have a question or just want to make friends!
       # Contact (add or remove contact options as necessary)
-      email: zhongyingcw@mail.bfa.edu.cn
+      email: zhongyingcw@stu.bfa.edu.cn
       phone: ''
       appointment_url: ''
       address:
