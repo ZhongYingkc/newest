@@ -155,7 +155,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Teaching Assistant
-          company: Beijing Film Academy·Virtual Reality Course
+          company: Beijing Film Academy·Virtual Reality Technology Course
           #company_url: https://mobile.youdao.com
           company_logo: vr
           location: Beijing
