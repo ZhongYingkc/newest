@@ -247,7 +247,7 @@ sections:
           date_start: '2024-10-12'
           description: ''
           icon: ''
-          organization: ''
+          organization: 'China's Ministry of Education'
           organization_url: 
           title: 'China National Scholarship'
           url: ''
