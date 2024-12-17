@@ -245,28 +245,19 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2024-10-12'
-          description: ''
-          icon: ''
-          organization: 'China's Ministry of Education'
-          organization_url: 
+          organization: China's Ministry of Education
           title: 'China National Scholarship'
-          url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2022-12-25'
-          description: ''
-          icon: ''
           organization: Beijing Film Academy
-          organization_url: 
           title: 'Postgraduate Academic Scholarship'
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2019-12-25'
           description: '2019, 2020, 2021'
-          icon: ''
           organization: Beijing Film Academy
-          organization_url: 
           title: 'Outstanding Student Scholarship'
           url: ''
     design:
