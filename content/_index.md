@@ -257,7 +257,7 @@ sections:
           description: ''
           icon: ''
           organization: Beijing Film Academy
-          organization_url: https://www.bfa.edu.cn
+          organization_url: 
           title: 'Postgraduate Academic Scholarship'
           url: ''
         - certificate_url: ''
@@ -266,7 +266,7 @@ sections:
           description: '2019, 2020, 2021'
           icon: ''
           organization: Beijing Film Academy
-          organization_url: https://www.bfa.edu.cn
+          organization_url: 
           title: 'Outstanding Student Scholarship'
           url: ''
     design:
