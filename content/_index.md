@@ -254,9 +254,9 @@ sections:
           title: 'Postgraduate Academic Scholarship'
           url: ''
         - certificate_url: ''
-          date_end: ''
+          date_end: '2022-12-25'
           date_start: '2019-12-25'
-          description: '2019, 2020, 2021'
+          description: 'For three consecutive years.'
           organization: Beijing Film Academy
           title: 'Outstanding Student Scholarship'
           url: ''
