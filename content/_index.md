@@ -156,7 +156,6 @@ sections:
       items:
         - title: Teaching Assistant
           company: Beijing Film Academy·Virtual Reality Technology Course
-          #company_url: https://mobile.youdao.com
           company_logo: vr
           location: Beijing
           date_start: '2024-05-01'
@@ -169,7 +168,6 @@ sections:
               * Assisted students to develop VR content projects.
         - title: Internship in Oversea Influencer Marketing
           company: Netease youdao
-          company_url: https://mobile.youdao.com
           company_logo: netease
           location: Guangzhou
           date_start: '2022-05-10'
@@ -182,7 +180,6 @@ sections:
               * Contacting oversea influencer.
         - title: Profesional Volunteer in Photography
           company: 2022 Beijing Winter Olympics and Paralympic
-          company_url: https://olympics.com/ioc/theme-beijing-2022
           company_logo: wo2022
           location: Beijing
           date_start: '2022-01-01'
@@ -194,7 +191,6 @@ sections:
               * Office work in the National Stadium photography department.
         - title: Internship in Music Marketing
           company: Tencent Music Entertainment
-          company_url: https://www.tencentmusic.com
           company_logo: tme
           location: Beijing
           date_start: '2021-07-01'
@@ -206,7 +202,6 @@ sections:
               * Data Analysing.
         - title: Volunteer in Technical Department
           company: International Student Film and Video Festival (ISFVF)
-          company_url: https://isfvf-eng.bfa.edu.cn
           company_logo: isfvf
           location: Beijing
           date_start: '2019-05-01'
